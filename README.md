@@ -5,7 +5,7 @@ Hey there! I'm **AALUND13**. I love coding and sharing my projects here on GitHu
 ## About Me
 - **Languages:** C#, TypeScript, JavaScript
 - **Collaborations:** I've collaborated on projects like [Infoholic](https://github.com/PikachuPenial/Infoholic).
-- **Contact:** You can reach out to me via my Discord server: [Join Discord](https://discord.gg/JMnjG4T9sX)
+- **Contact:** You can reach out to me via my Discord server: [Join Discord](https://discord.gg/ysMfM6bhAr)
 
 ## Explore My Repositories
 Take a look at my repositories to see the variety of projects I've been involved in. Don't hesitate to leave feedback or reach out if you have any questions!
